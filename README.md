@@ -36,4 +36,3 @@ PlantVillage Dataset
 - Transfer Learning
 - Streamlit Deployment
 - Mobile Integration
-- 
