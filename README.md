@@ -32,7 +32,7 @@ PlantVillage Dataset
 - Data Augmentation
 
 ##Week 2
-  Custom CNN Model
+- Custom CNN Model
 - Conv2D Layers
 - MaxPooling Layers
 - Dropout
