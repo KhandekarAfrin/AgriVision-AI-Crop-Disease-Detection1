@@ -31,7 +31,7 @@ PlantVillage Dataset
 - Train Validation Test Split
 - Data Augmentation
 
-##Week 2
+## Week 2
 - Custom CNN Model
 - Conv2D Layers
 - MaxPooling Layers
