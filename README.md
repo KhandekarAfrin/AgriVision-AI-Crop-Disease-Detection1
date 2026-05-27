@@ -3,7 +3,10 @@ AgriVision AI leverages Deep Learning and Computer Vision to provide fast, accur
 # AgriVision Crop Disease Detection
 
 ## Overview
-This project detects crop diseases using Deep Learning and Computer Vision techniques on the PlantVillage dataset.
+This project uses a Convolutional Neural Network (CNN) trained on leaf images to classify healthy and diseased crops, enabling automated and reliable disease diagnosis for smart farming applications.
+
+## Problem Statement
+Plant diseases significantly reduce crop yield and farmer income when not detected early. Manual inspection is time-consuming, subjective, and not scalable. This project addresses the need for an automated, accurate, and fast crop disease detection system using deep learning and computer vision.
 
 ## Objectives
 - Detect diseased crops
@@ -19,7 +22,7 @@ This project detects crop diseases using Deep Learning and Computer Vision techn
 - Google Colab
 
 ## Dataset
-PlantVillage Dataset
+The PlantVillage Dataset is a publicly available, large-scale image dataset containing labeled images of healthy and diseased plant leaves across multiple crop species. The dataset was sourced from Kaggle and used for training, validation, and testing of the deep learning model.
 
 ## Week 1
 - Dataset Collection
