@@ -2,11 +2,11 @@
 AgriVision AI leverages Deep Learning and Computer Vision to provide fast, accurate, and scalable crop disease diagnosis for smart farming and sustainable agriculture.
 # AgriVision Crop Disease Detection
 
-## Overview
-This project uses a Convolutional Neural Network (CNN) trained on leaf images to classify healthy and diseased crops, enabling automated and reliable disease diagnosis for smart farming applications.
-
 ## Problem Statement
 Plant diseases significantly reduce crop yield and farmer income when not detected early. Manual inspection is time-consuming, subjective, and not scalable. This project addresses the need for an automated, accurate, and fast crop disease detection system using deep learning and computer vision.
+
+## Overview
+This project uses a Convolutional Neural Network (CNN) trained on leaf images to classify healthy and diseased crops, enabling automated and reliable disease diagnosis for smart farming applications.
 
 ## Objectives
 - Detect diseased crops
