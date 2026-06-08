@@ -48,3 +48,24 @@ The PlantVillage Dataset is a publicly available, large-scale image dataset cont
 - Validation Accuracy: 87%
 - Test Accuracy: 86.43%
 - Test Loss: 0.3834
+
+# Week 3
+-Loaded PlantVillage dataset
+-Resized images for model input
+-Normalized image pixel values
+-Applied data augmentation techniques
+-Used CNN with MobileNetV2 architecture
+-Implemented transfer learning with ImageNet weights
+-Added custom classification layers
+-Trained the model on training data
+-Evaluated model using validation data
+
+# Week 4
+-Created Streamlit web application
+-Integrated trained CNN model into the app
+-Implemented image upload functionality
+-Performed image preprocessing for prediction
+-Displayed predicted crop disease result
+-Tested application on localhost
+-Configured ngrok for public access
+-Generated public URL for live demo
