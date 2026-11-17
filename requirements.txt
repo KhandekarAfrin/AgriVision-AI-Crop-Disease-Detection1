@@ -1,8 +1,5 @@
-tensorflow
-opencv-python
-numpy
-pandas
-matplotlib
-scikit-learn
-pillow
-seaborn
+streamlit>=1.36,<2
+Pillow>=10,<13
+torch>=2.2
+transformers>=4.45,<5
+safetensors>=0.4
